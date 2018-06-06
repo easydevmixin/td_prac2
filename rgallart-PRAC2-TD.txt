@@ -1,0 +1,9 @@
+Hola Mireia,
+
+Sóc Ramon Maria i aquest és l'enllaç al repositori de Github per la pràctica #2 de Tipologia de Dades:
+
+https://github.com/easydevmixin/td_prac2
+
+Salutacions,
+
+Ramon Maria Gallart Escolà
