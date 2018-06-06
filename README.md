@@ -20,6 +20,6 @@ El projecte consta de 4 fitxers. `PRACTICA 2.ipynb` és un Jupyter notebook que 
 
 1. “Normality Test.” [Online]. Available: https://plot.ly/python/normality-test/. [Accessed: 05-Jun-2018].
 2. S. C. CHOI, “Tests of equality of dependent correlation coefficients,” Biometrika, vol. 64, no. 3, pp. 645–647, 1977.
-3. “Spearman's rank correlation coefficient” [Online]. Available: https://en.wikipedia.org/wiki/Spearman%27s\_rank\_correlation\_coefficient. [Accessed: 05-Jun-2018].
+3. “Spearman's rank correlation coefficient” [Online]. Available: https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient. [Accessed: 05-Jun-2018].
 4. “Python Data Analysis Library” [Online]. Available: http://pandas.pydata.org. [Accessed: 05-Jun-2018].
 
